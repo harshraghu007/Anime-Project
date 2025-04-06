@@ -1,1 +1,1 @@
-# Anime-Project
+# AnimeProject
